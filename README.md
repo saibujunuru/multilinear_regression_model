@@ -1,1 +1,1 @@
-# multilinear_regression_model
+# multiregresion model on predicting stock close price 
